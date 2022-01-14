@@ -1,4 +1,4 @@
-# Projects-Blind-Imitation
+# Projects: Clone/Imitation
 Projects that I literally imitate to learn!
 
 
