@@ -2,5 +2,5 @@
 Projects that I literally imitate to learn!
 
 
-1. JAVA -  Making a rhythm game
+1. JAVA -  Making a rhythm game - Finished 
 
